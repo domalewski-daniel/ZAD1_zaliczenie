@@ -1,7 +1,7 @@
 # ZAD1_zaliczenie
 Zadanie 1 na zaliczenie ćwiczeń z przedmiotu Programowanie Java
 
-Projekt: Java Spring - Kontroler i Frontend HTML
+Projekt: Java Spring - MVC
 
 Opis projektu
 
